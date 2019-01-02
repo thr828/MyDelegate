@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {
     /// <summary>
-    /// 委托
+    /// 委托    
     /// </summary>
     class Program
     {
